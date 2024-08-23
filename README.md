@@ -6,4 +6,6 @@ I have videos of me presenting this project available on YouTube. <br>
 * [PowerPoint presentation](https://youtu.be/71WYuFDQ5U8?si=uZPC5awJqqZ4cKF_)<br>
 * [Excel presentation](https://youtu.be/mzW9F8sNgF0?si=Cy3liWPKnFdgdAlQ)
 
+The files used for this project are included in this repository above.
+
 The source data came from [Maven Analytics.](https://mavenanalytics.io/data-playground)
